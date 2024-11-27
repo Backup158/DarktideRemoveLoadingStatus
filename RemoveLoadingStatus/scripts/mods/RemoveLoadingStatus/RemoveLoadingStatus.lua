@@ -30,15 +30,6 @@ mod.localization_templates = {
 		end,
 	},
     {	
-		id = "ReadFromDisk",
-		loc_keys = {"loc_wait_reason_read_from_disk",},
-		locales = {"en",},
-		handle_func = function(locale, value)
-            -- "READING DATA FROM DISK"
-			return "" 
-		end,
-	},
-    {	
 		id = "Backend",
 		loc_keys = {"loc_wait_reason_backend",},
 		locales = {"en",},
