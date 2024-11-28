@@ -29,4 +29,3 @@ mod:add_global_localize_strings({
     en = ""
   },
 })
-
